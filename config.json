@@ -145,8 +145,9 @@
   ],
  "demographics": {
     "part_title": "第五部分",
-    "instruction": "請填寫個人相關之基本資料，再次申明此資料僅供學術研討分析使用，請安心填答。\n\n🎁 【抽獎活動說明】\n為保障本問卷的「絕對匿名性」，抽獎 Email 將與問卷作答資料分開收集。請您在填寫完畢並點擊「送出問卷」後，前往以下網址留下您的 Email：\n👉 https://forms.gle/dm5oS7kfBNKWNE1D7",
-    "fields": [
+    "instruction": "請填寫個人相關之基本資料，再次申明此資料僅供學術研討分析使用，請安心填答。\n\n,
+   "check_instruction": "🎁 【抽獎活動說明】\n為保障本問卷的「絕對匿名性」，抽獎 Email 將與問卷作答資料分開收集。請您在填寫完畢並點擊「送出問卷」後，前往以下網址留下您的 Email：\n👉 https://forms.gle/dm5oS7kfBNKWNE1D7"", 
+   "fields": [
       {
         "id": "age",
         "label": "您的年齡",
