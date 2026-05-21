@@ -11,7 +11,7 @@
     "protagonist": "小恩",
     "google_sheet_endpoint": "https://script.google.com/macros/s/AKfycbztkbQgHKCN96Lyr3A92lHsXqDzcroysxn2drQ0TqaLWsun5MGY0CT9TQ1lP5iCSvaT/exec"
   },
-  "quota_per_cell": 60,
+  "quota_per_cell": 90,
   "cover": {
     "target_description": "具備實務工作經驗之人員",
     "body": "非常感謝您在百忙之中撥冗填寫本問卷。本研究旨在瞭解「職場環境與主管回饋方式對員工心理感受之影響」。本問卷調查對象為具備實務工作經驗之人員，填答時間約需 7-8 分鐘。\n\n本問卷共分為兩大階段：第一階段將先了解您的個人真實工作與社交感受；第二階段請您閱讀一段職場情境，並將自己代入主角的視角進行填答。每一題均無絕對之對錯，請依照您當下最真實的想法與感受填答即可。",
