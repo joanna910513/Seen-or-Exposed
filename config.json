@@ -190,7 +190,7 @@
         "type": "radio",
         "options": [
           "生理男",
-          "生理女",
+          "生理女"
               ],
         "required": true
       },
